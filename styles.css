@@ -83,6 +83,17 @@ section{
     font-size:3.5rem;
     font-weight:600;
 }
+.img-head{
+    position: absolute;
+    color: black;
+    background-color: white;
+    left: 40%;
+    top: 40%;
+    font-size: 4rem;
+    transform: translateX(-20%);
+   
+
+}
 
 .bg1{
     background-image: url(sport-1.jpg);
